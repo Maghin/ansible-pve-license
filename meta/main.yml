@@ -26,5 +26,4 @@ galaxy_info:
     - proxmox
     - license
 
-dependencies:
-  - pve-ansible-requirement
+dependencies: []
