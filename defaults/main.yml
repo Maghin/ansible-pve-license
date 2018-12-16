@@ -1,0 +1,3 @@
+---
+# defaults file for pve-license
+pve_license_check_enabled: false
